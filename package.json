@@ -1,0 +1,16 @@
+{
+  "name": "material-design-iconfont",
+  "version": "0.1.0",
+  "homepage": "https://github.com/alexrchies/material-design-iconfont",
+  "author": "Alex R Chies <alexrchies@gmail.com> (http://es.linkedin.com/in/alexrchies/)",
+  "description": "An icon font with the complete icon collection of material design. Based in the original work of Google in https://github.com/google/material-design-icons",
+  "keyword": "icon, font, material design, Google",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexrchies/material-design-iconfont.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexrchies/material-design-iconfont/issues"
+  }
+}
